@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_seo_informations",
+  "info": {
+    "displayName": "SEOInformation",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "SeoTitle": {
+      "type": "string"
+    },
+    "SeoDescription": {
+      "type": "text"
+    }
+  }
+}
